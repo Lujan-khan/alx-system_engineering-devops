@@ -1,2 +1,2 @@
-0 search school containing "SCHOOL"
+file -m School.SCHOOL
 !:mime School
