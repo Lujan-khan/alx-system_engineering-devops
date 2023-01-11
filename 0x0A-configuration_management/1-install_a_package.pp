@@ -1,3 +1,5 @@
+
+
 # Installs puppet-lint
 
 package { 'puppet-lint':
